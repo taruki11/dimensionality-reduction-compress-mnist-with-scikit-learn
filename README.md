@@ -25,7 +25,7 @@ python scaffold.py
 - [x] **13.** classifier_on_compressed
 - [x] **14.** pca_classifier_pipeline
 - [x] **15.** save_and_reload_pipeline
-- [ ] **16.** predict_images
+- [x] **16.** predict_images
 
 ---
 
