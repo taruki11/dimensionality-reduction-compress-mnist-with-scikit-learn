@@ -22,9 +22,9 @@ python scaffold.py
 - [x] **10.** random_projection
 - [x] **11.** unroll_swiss_roll
 - [x] **12.** tsne_map
-- [ ] **13.** classifier_on_compressed
-- [ ] **14.** pca_classifier_pipeline
-- [ ] **15.** save_and_reload_pipeline
+- [x] **13.** classifier_on_compressed
+- [x] **14.** pca_classifier_pipeline
+- [x] **15.** save_and_reload_pipeline
 - [ ] **16.** predict_images
 
 ---
