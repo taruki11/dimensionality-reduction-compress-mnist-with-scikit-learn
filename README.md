@@ -13,7 +13,7 @@ python scaffold.py
 - [x] **1.** load_mnist_subset
 - [x] **2.** fit_pca
 - [x] **3.** components_for_variance
-- [ ] **4.** explained_variance_curve
+- [x] **4.** explained_variance_curve
 - [ ] **5.** compress
 - [ ] **6.** reconstruction_error
 - [ ] **7.** compression_ratio
