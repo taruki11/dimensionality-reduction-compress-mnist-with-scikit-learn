@@ -14,8 +14,8 @@ python scaffold.py
 - [x] **2.** fit_pca
 - [x] **3.** components_for_variance
 - [x] **4.** explained_variance_curve
-- [ ] **5.** compress
-- [ ] **6.** reconstruction_error
+- [x] **5.** compress
+- [x] **6.** reconstruction_error
 - [ ] **7.** compression_ratio
 - [ ] **8.** randomized_pca
 - [ ] **9.** incremental_pca
