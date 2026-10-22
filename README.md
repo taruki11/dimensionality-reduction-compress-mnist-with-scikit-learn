@@ -1,0 +1,2 @@
+# dimensionality-reduction-compress-mnist-with-scikit-learn
+Chapter 7 of Hands-On Machine Learning as a practitioner applies it: fit PCA on MNIST, choose the number of components from the explained-variance curve, compress and reconstruct images, speed it up with randomized and incremental PCA, unroll a Swiss roll with LLE, map digits with t-SNE, then save a PCA-plus-classifier pipeline and serve it.
